@@ -1,0 +1,14 @@
+## 京东爬虫，用于爬取三星手机相关的信息，包括
+
+- 手机名称
+- 价格
+- 运行内存
+- 电池容量
+- 机身颜色
+- 摄像头像素
+
+## 运行方式
+
+1. 安装scrapy
+2. 运行scrapy.exe crawl jd_samsung -o phones.json
+3. 查看phones.json文件
